@@ -7,8 +7,8 @@
 ## Integrantes
 
 | Nombre | Correo institucional | Usuario de GitHub |
-|---|---|---|
-| | | |
+| Juan Camilo Gomez Murillo | juan.gomez10@est.iudigital.edu.co | camilo539 |
+| Isabela Cuartas Vence | isabela.cuartas@est.iudigital.edu.co | isabelacuartas-eng |
 | | | |
 | | | |
 
